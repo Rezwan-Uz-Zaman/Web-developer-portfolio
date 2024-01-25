@@ -206,3 +206,17 @@ nav li{
     line-height: 30px;
 } */
 
+#what-i-do-section-description{
+    text-align: center;
+    padding: 30px 140px ;
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+}
+
+.skill-container{
+    display: flex;
+    margin-top: 150px 30px 33px 33px ;
+   
+}
