@@ -56,7 +56,7 @@ nav{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    margin: 0px 200px;
+    margin: 0px 150px;
 
 
 
@@ -74,7 +74,7 @@ nav{
 font-family: "Open Sans";
 font-size: 45px;
 font-style: normal;
-font-weight: 800;
+font-weight: 700;
 line-height: normal;
 } 
 
@@ -109,10 +109,10 @@ nav li{
 
  .banner{
 
-    padding: 30px 30px 0px 180px;   
+    padding: 30px 30px 0px 150px;   
     display:flex;
     align-items: center; 
-      justify-content: space-between;  
+    justify-content: space-between;  
 
 } 
 
@@ -129,7 +129,7 @@ nav li{
 }
 
 .banner-title{
-    font-size: 50px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 700;
     color: #181818;
@@ -159,7 +159,11 @@ nav li{
 
 /* main section styles */
 
-
+ main{
+    max-width: 1140;
+    justify-content:center;
+    margin: 0 auto;
+} 
 
 
 
@@ -173,3 +177,32 @@ nav li{
     border-radius: 10px;
     margin: 130px 0;  
 }
+
+.about-info-container{
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    
+}
+
+.about-info{
+    text-align: center;
+}
+
+/* .info-title{
+    color: #757575;
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.info-description{
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+} */
+
