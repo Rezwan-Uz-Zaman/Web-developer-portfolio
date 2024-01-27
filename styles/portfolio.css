@@ -249,14 +249,22 @@ main section{
 
 .resume-section-title{
     text-align: center;
+    
+   
 
     font-size: 35px;
+}
+
+.resume-column{
+     text-align: center; 
+    
 }
 
 .resume-column-title{
     color: #474747;
     font-size: 30px;
     font-weight: 700;
+   
 }
 
 
@@ -266,12 +274,17 @@ main section{
     font-weight: 700;
     line-height: normal;
      margin-bottom: 10px; 
+    
 }
 
 .resume-container{
-    display: flex;
+    display:flex;
+    align-items: center;
 
-    gap: 60px;
+     gap: 60px; 
+
+     margin-left: 25px;
+     margin-right: 25px;  
 }
 
 .resume-item-institute{
@@ -290,15 +303,18 @@ main section{
   color:   #757575;
   font-size: 20px;
   font-weight: 600px;
+  padding-left: 5px;
+ 
  
 }
 
 .resume-container hr{
-    /* margin: 30px; */
+      margin: 20px;  
+   
 }
 
 .download-cv{
     text-align: center;
-   margin-top: 30px;
+   margin-top: 50px;
 }
 
