@@ -318,3 +318,31 @@ main section{
    margin-top: 50px;
 }
 
+
+/* footer styles */
+
+footer{
+    display: flex;
+    font-size: 35px;
+    color: #181818;
+      margin-top: 100px; 
+     margin-left: 340px;
+     
+ 
+    
+}
+
+.lets-connect-description{
+    color: #474747;
+    font-size: 16px;
+    font-weight: 400;
+    width: 700px;
+    
+
+}
+
+
+.footer-column{
+     
+     
+}
