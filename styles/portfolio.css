@@ -325,8 +325,10 @@ footer{
     display: flex;
     font-size: 35px;
     color: #181818;
-      margin-top: 100px; 
-     margin-left: 340px;
+    margin-top:100px; 
+    margin-left: 150px;  
+    gap: 100PX; 
+   
      
  
     
@@ -336,13 +338,42 @@ footer{
     color: #474747;
     font-size: 16px;
     font-weight: 400;
-    width: 700px;
+    width: 450px;
+    
     
 
 }
 
 
-.footer-column{
+ .footer-column{
      
-     
+      width: 50%; 
+}
+ 
+
+.lets-massage-me-contact-form,input,textarea{
+    display: block;
+
+    margin-bottom: 20px;  
+    
+    border: 0; 
+    
+    padding: 18px 35px; 
+
+    border-radius: 5px;
+}
+
+
+
+.lets-massage-me-contact-form-submit{
+    
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700; 
+    border: 0;
+
 }
