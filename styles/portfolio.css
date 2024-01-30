@@ -257,7 +257,7 @@ main section{
 
 .resume-column{
      text-align: center; 
-    
+     
 }
 
 .resume-column-title{
@@ -304,13 +304,14 @@ main section{
   font-size: 20px;
   font-weight: 600px;
   padding-left: 5px;
+
  
  
 }
 
 .resume-container hr{
       margin: 20px;  
-   
+    margin-bottom: 60px;
 }
 
 .download-cv{
