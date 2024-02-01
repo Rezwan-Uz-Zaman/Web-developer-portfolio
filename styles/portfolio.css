@@ -106,6 +106,7 @@ nav li{
     background-size: 700px , 80px;
     
     
+    
 }
 
 
@@ -369,19 +370,23 @@ border-radius: 5px;
 
 
 
+
 }
 
 
 
-.lets-massage-me-contact-form-submit{
+.submit{
     
     background-color: #FD6E0A;
     border-radius: 5px;
     color: white;
     text-align: center;
-    font-size: 16px;
-    font-weight: 700; 
-    border: 0;
+    font-size: 20px;
+    font-weight: 600; 
+    padding: 15px 30px;
+    border: 0; 
+    font-style: normal;
+    
    
 
 }
